@@ -1,0 +1,4 @@
+failBack=com.dolphin.rpc.fault.tolerant.FailBackTolerantStrategy
+failFast=com.dolphin.rpc.fault.tolerant.FailFastTolerantStrategy
+failOver=com.dolphin.rpc.fault.tolerant.FailOverTolerantStrategy
+failSafe=com.dolphin.rpc.fault.tolerant.FailSafeTolerantStrategy

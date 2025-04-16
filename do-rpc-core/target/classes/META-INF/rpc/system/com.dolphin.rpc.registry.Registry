@@ -1,0 +1,2 @@
+etcd=com.dolphin.rpc.registry.EtcdRegistry
+zookeeper=com.dolphin.rpc.registry.ZooKeeperRegistry

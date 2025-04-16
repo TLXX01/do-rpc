@@ -1,0 +1,3 @@
+roundRobin=com.dolphin.rpc.loadbalancer.RoundRobinLoadBalancer
+random=com.dolphin.rpc.loadbalancer.RandomLoadBalancer
+consistentHash=com.dolphin.rpc.loadbalancer.ConsistentHashLoadBalancer

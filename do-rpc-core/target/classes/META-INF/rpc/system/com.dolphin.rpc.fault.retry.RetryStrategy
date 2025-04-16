@@ -1,0 +1,2 @@
+no=com.dolphin.rpc.fault.retry.NoRetryStrategy
+fixedInterval=com.dolphin.rpc.fault.retry.FixedIntervalRetryStrategy

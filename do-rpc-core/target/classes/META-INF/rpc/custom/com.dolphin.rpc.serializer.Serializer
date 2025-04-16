@@ -1,0 +1,2 @@
+json=com.dolphin.rpc.serializer.JsonSerializer
+kryo=com.dolphin.rpc.serializer.KryoSerializer

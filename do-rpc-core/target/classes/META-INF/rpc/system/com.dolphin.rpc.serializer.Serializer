@@ -1,0 +1,3 @@
+jdk=com.dolphin.rpc.serializer.JdkSerializer
+hessian=com.dolphin.rpc.serializer.HessianSerializer
+
